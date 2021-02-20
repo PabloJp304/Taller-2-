@@ -1,0 +1,46 @@
+.contenido{
+    position: relative;
+    top: 130px;
+    left: 35%;
+}
+
+.contenido div{
+    display: inline-block;
+    height: 600px;
+}
+
+.rojo{
+    background: red;
+}
+
+.azul{
+    background: blue;
+}
+
+.amarillo{
+    background: yellow;
+}
+
+#primerRojo{
+    width: 12px;
+}
+
+#primerAzul{
+    width: 12px;
+}
+
+#primerAmarillo{
+    width: 30px;
+}
+
+#segundoRojo{
+    width: 60px;
+}
+
+#segundoAzul{
+    width: 144px;
+}
+
+#segundoAmarillo{
+    width: 260px;
+}

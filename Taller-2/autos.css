@@ -1,0 +1,92 @@
+body{
+    background: url(carros.jpg);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#contenedor{
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+header{
+    height: 150px;
+    background: rgba(255, 255, 255, .65);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+header h1{
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
+
+#contenido {
+    width: 700px;
+    height: 500px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, .65);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+#contenido p{
+    font-size: 20px;
+    line-height: 50px;
+    padding: 40px;
+    font-weight: bolder;
+}
+
+aside{
+    width: 250px;
+    height: 500px;
+    margin-top: 10px;
+    float: right;
+    background: rgba(255, 255, 255, .65);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+aside h2{
+    font-size: 28px;
+    text-align: center;
+    line-height: 40px;
+}
+
+footer{
+    clear: both;
+    background: rgba(255, 255, 255, .65);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
+
+footer h2{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+ul{
+    text-align: center;
+    margin-top: 30px;
+    list-style: none;
+    line-height: 40px;
+}
+
+#logo{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    right: 300px;
+}
+
+
+
+
